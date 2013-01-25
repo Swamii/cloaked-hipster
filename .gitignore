@@ -1,0 +1,21 @@
+*.bak
+*.swp
+*.log
+*.iws
+*.orig
+.idea/workspace.xml
+.idea/projectCodeStyle.xml
+out
+server.pid
+logs/
+tmp/
+modules
+lib
+data/attachments
+.DS_Store
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
