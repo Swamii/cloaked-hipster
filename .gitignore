@@ -12,6 +12,9 @@ tmp/
 modules
 lib
 data/attachments
+project/project
+project/target
+target
 .DS_Store
 *.class
 
